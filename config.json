@@ -1,19 +1,19 @@
 {
-  "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
-  "botName": "VelzzyBOT-MDོ",
-  "ownerName": "RonzzOfcོ",
+  "contactOwner": "6282171432358",
+  "ownerNumber": ["6282171432358@s.whatsapp.net"],
+  "botName": "MGBOTZ-MDོ",
+  "ownerName": "Private",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "MGBOTZ-MDོ © MGBOTZ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+      "nomer": "081287142545",
+      "atas_nama": "MGBOTZ"
     },
     "dana": {
-      "nomer": "628817839722",
-      "atas_nama": "Ronzz YT"
+      "nomer": "082171432358",
+      "atas_nama": "Private"
     }
   }
 }
